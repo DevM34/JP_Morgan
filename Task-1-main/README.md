@@ -1,2 +1,2 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+Fixed problem in Interface with live data feed using Python and node.js
