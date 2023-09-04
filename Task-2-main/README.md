@@ -1,2 +1,2 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+Used JPMC Perspective tool for showing live graphs of stocks prices using python, nodejs and TyperScript
