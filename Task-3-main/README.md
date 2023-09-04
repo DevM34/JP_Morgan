@@ -1,2 +1,2 @@
 # JPMC Task 3
-Starter repo for task 3 of JPMC's Forage program
+Used JPMC's Perspective tools to graphically show live feed of two stocks upperBound, lowerBound, Ratio and prices using Python, nodejs and TypeScript
